@@ -1,0 +1,25 @@
+header {
+    border-bottom: 1px solid #f0f2f5;
+
+    .logo {
+        background: url('../../src/img/index/nav-logo.png') no-repeat 0 0;
+        width: 90px;
+        height: 80px;
+    }
+    .nav-item {
+        float: left;
+        font-size: 18px;
+        color: #6b6d70;
+        height: 80px;
+        line-height: 80px;
+        margin-right: 64px;
+        text-align: center;
+        &:hover, &.active {
+            color: #b88259;
+        }
+    }
+    .btn {
+        float: right;
+        margin-top: 19px;
+    }
+}

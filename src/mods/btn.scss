@@ -1,0 +1,27 @@
+.btn {
+    display: inline-block;
+    width: 252px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn-yellow {
+    background: #b88259;
+    color: #fff;
+    &:hover {
+        background: #c79670;
+    }
+}
+.btn-yellow-s {
+    width: 152px;
+    height: 44px;
+    line-height: 44px;
+    font-size: 16px;
+}
+
+.btn-black {
+    background: #2c2f36;
+    color: #b5b3b5;
+}

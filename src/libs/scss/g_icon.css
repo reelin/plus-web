@@ -1,0 +1,180 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-aboutus_arrow_right {
+  background-image: url(icon.png);
+  background-position: -3063px -813px;
+  width: 20px;
+  height: 20px;
+}
+.icon-arrow_left_hover {
+  background-image: url(icon.png);
+  background-position: -2556px -953px;
+  width: 32px;
+  height: 104px;
+}
+.icon-arrow_left_nomal {
+  background-image: url(icon.png);
+  background-position: -2460px -953px;
+  width: 32px;
+  height: 104px;
+}
+.icon-arrow_right_hover {
+  background-image: url(icon.png);
+  background-position: -2524px -953px;
+  width: 32px;
+  height: 104px;
+}
+.icon-arrow_right_nomal {
+  background-image: url(icon.png);
+  background-position: -2492px -953px;
+  width: 32px;
+  height: 104px;
+}
+.icon-contact_diagonal {
+  background-image: url(icon.png);
+  background-position: -3042px -834px;
+  width: 24px;
+  height: 24px;
+}
+.icon-contact_grain {
+  background-image: url(icon.png);
+  background-position: -3083px -813px;
+  width: 8px;
+  height: 8px;
+}
+.icon-contact_map {
+  background-image: url(icon.png);
+  background-position: -1600px -746px;
+  width: 860px;
+  height: 390px;
+}
+.icon-contact_product {
+  background-image: url(icon.png);
+  background-position: 0px -1174px;
+  width: 866px;
+  height: 208px;
+}
+.icon-heading_grain {
+  background-image: url(icon.png);
+  background-position: -3091px -813px;
+  width: 6px;
+  height: 6px;
+}
+.icon-hot_arrow_hover {
+  background-image: url(icon.png);
+  background-position: -3043px -813px;
+  width: 20px;
+  height: 20px;
+}
+.icon-hot_arrow_nomal {
+  background-image: url(icon.png);
+  background-position: -3023px -813px;
+  width: 20px;
+  height: 20px;
+}
+.icon-hot_bg {
+  background-image: url(icon.png);
+  background-position: -1600px 0px;
+  width: 1600px;
+  height: 746px;
+}
+.icon-hot_grain {
+  background-image: url(icon.png);
+  background-position: -2527px -886px;
+  width: 50px;
+  height: 50px;
+}
+.icon-icon-left-hover {
+  background-image: url(icon.png);
+  background-position: -2994px -746px;
+  width: 67px;
+  height: 67px;
+}
+.icon-icon-left-normal {
+  background-image: url(icon.png);
+  background-position: -3061px -746px;
+  width: 67px;
+  height: 67px;
+}
+.icon-icon-nav-menu {
+  background-image: url(icon.png);
+  background-position: -2994px -813px;
+  width: 29px;
+  height: 21px;
+}
+.icon-icon-right-hover {
+  background-image: url(icon.png);
+  background-position: -2460px -886px;
+  width: 67px;
+  height: 67px;
+}
+.icon-icon-right-normal {
+  background-image: url(icon.png);
+  background-position: -3128px -746px;
+  width: 67px;
+  height: 67px;
+}
+.icon-icon_address {
+  background-image: url(icon.png);
+  background-position: -2994px -834px;
+  width: 24px;
+  height: 24px;
+}
+.icon-icon_data {
+  background-image: url(icon.png);
+  background-position: -3018px -834px;
+  width: 24px;
+  height: 24px;
+}
+.icon-icon_down {
+  background-image: url(icon.png);
+  background-position: -2880px -746px;
+  width: 114px;
+  height: 114px;
+}
+.icon-photo_bg {
+  background-image: url(icon.png);
+  background-position: 0px 0px;
+  width: 1600px;
+  height: 1174px;
+}
+.icon-photo_icon01 {
+  background-image: url(icon.png);
+  background-position: -2600px -746px;
+  width: 140px;
+  height: 140px;
+}
+.icon-photo_icon02 {
+  background-image: url(icon.png);
+  background-position: -2460px -746px;
+  width: 140px;
+  height: 140px;
+}
+.icon-photo_icon03 {
+  background-image: url(icon.png);
+  background-position: -2740px -746px;
+  width: 140px;
+  height: 140px;
+}
+.icon-photo_line {
+  background-image: url(icon.png);
+  background-position: -866px -1174px;
+  width: 1150px;
+  height: 40px;
+}
