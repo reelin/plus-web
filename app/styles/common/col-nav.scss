@@ -1,0 +1,34 @@
+.col-nav {
+    width: 294px;
+    padding-top: 40px;
+    float: left;
+    a {
+        display: block;
+        font-size: 20px;
+        color: #6d6d70;
+        font-weight: lighter;
+        line-height: 20px;
+        margin-bottom: 48px;
+        text-align: center;
+        float: left;
+        span {
+            float: left;
+            margin-left: 110px;
+        }
+        .arrow  {
+            display: none;
+            margin-left: 8px;
+        }
+        &:hover, &.active {
+            color: #d88259;
+            font-weight: normal;
+            .arrow {
+                display: inline-block;
+                background: url(../images/icon/aboutus_arrow_right.png) no-repeat -5px 0;
+                height: 20px;
+                width: 10px;
+
+            }
+        }
+    }
+}

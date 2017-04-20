@@ -1,0 +1,22 @@
+.footer {
+  width: 100%;
+  background: #1d1d1d;
+  line-height: 122px;
+  height: 122px;
+  vertical-align: middle;
+  color: #636363;
+  text-align: center;
+  span {
+    margin-right: 75px;
+  }
+  a {
+    color: #636363;
+    margin-right: 75px;
+    &:hover, &.active {
+      color: #939393;
+    }
+    &.social {
+      margin-right: 6px;
+    }
+  }
+}

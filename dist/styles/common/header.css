@@ -1,0 +1,2 @@
+header{background-color:#fff;border-bottom:1px solid #f0f2f5;width:100%}header.fixed{position:fixed;z-index:1;top:0}header .logo{background:url(../../images/index/nav-logo.png) no-repeat 0 0;width:90px;height:80px}header .nav-item{float:left;font-size:18px;color:#6b6d70;height:80px;line-height:80px;margin-right:64px;text-align:center}header .nav-item.active,header .nav-item:hover{color:#b88259}header .btn{float:right;margin-top:19px}
+/*# sourceMappingURL=header.css.map */
